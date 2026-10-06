@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/lucas-astorini">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://astorini.github.io/site-astorini/">
+    <img src="https://img.shields.io/badge/Site_pessoal-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site pessoal" />
+  </a>
 </p>
 
 ---
@@ -27,11 +30,22 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🚀 Projetos em destaque
+### ⭐ Meu primeiro projeto: Site pessoal
+
+<a href="https://astorini.github.io/site-astorini/">
+  <img src="https://img.shields.io/badge/Ver_site_no_ar-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver site" />
+</a>
+<a href="https://github.com/astorini/site-astorini">
+  <img src="https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver código" />
+</a>
+
+Meu primeiro projeto como desenvolvedor: um site pessoal feito com **HTML e CSS** e publicado no **GitHub Pages**.
+🔗 **https://astorini.github.io/site-astorini/**
+
+### 🚀 Outros projetos
 
 | Projeto | Links |
 |---|---|
-| **Site pessoal** | [Código](https://github.com/astorini/site-astorini) · [Ver site](https://astorini.github.io/site-astorini/) |
 | **Portfólio do Futuro** | [Código](https://github.com/astorini/Portif-lio-do-futuro-) · [Ver site](https://astorini.github.io/Portif-lio-do-futuro-/) |
 | **Currículo** | [Código](https://github.com/astorini/Curriculo-) · [Ver site](https://astorini.github.io/Curriculo-/) |
 
